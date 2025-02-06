@@ -1,12 +1,12 @@
 # OceanMantaRays
-CS148 Final Project for Ocean Manta Rays
+Project for Ocean Manta Rays
 
 
- Ishita Gupta and Ines Salter (Stanford IDs: ishig and isalter)
+ Ishita Gupta and Ines Salter
 Manta Arrival to the Village of Fish
 Google Drive Link to Submission
 Inspiration
-We were reading Playground, which inspired us to think of the ocean as a potential source for the CS148 final project, reflecting photos under the ocean, showing the biodiversity under water and how the light can illuminate all which we cannot see. Additionally, Ishita has done a lot of freediving and so for her it’s particularly moving to be able to represent the underwater world in blender.
+We were reading Playground, which inspired us to think of the ocean as a potential source for this project, reflecting photos under the ocean, showing the biodiversity under water and how the light can illuminate all which we cannot see. Additionally, Ishita has done a lot of freediving and so for her it’s particularly moving to be able to represent the underwater world in blender.
 
 Rendering our Final Image from a different angle and without textures:
 We rendered two images without textures, one with the ocean still and one without so that the differences were clear. The last image, which has no textures, still has a blue tone because of the volumetric applied to it.
